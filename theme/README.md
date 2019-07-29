@@ -1,4 +1,4 @@
-# Gatsby Theme Vayu
+# Gatsby Theme Chaos
 
 See the [live demo](https://stoic-ptolemy-decc62.netlify.com/)
 
