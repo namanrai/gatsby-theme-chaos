@@ -14,7 +14,7 @@ exports.createPages = ({ actions, reporter }) => {
 
         <p>
          <center>
-          <a href="https://www.github.com/hakrsingh" target="_blank" style="color: #494949">github</a>
+          <a href="https://github.com/HAKRSINGH/gatsby-theme-chaos" target="_blank" style="color: #494949">github</a>
           <a href="https://www.npmjs.com/package/@hakrsingh/gatsby-theme-chaos" target="_blank" style="color: #494949">npm</a>
          </center>
 
