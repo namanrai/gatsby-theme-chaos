@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-theme-jam-example",
-  "author": "Jason Lengstorf <jason@gatsbyjs.com>",
+  "name": "gatsby-theme-chaos",
+  "author": "Aditya Vardhan Singh <hakrsingh@protonmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlengstorf/gatsby-theme-jam-example.git"
+    "url": "https://github.com/HAKRSINGH/gatsby-theme-chaos.git"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
@@ -21,7 +21,9 @@
   "dependencies": {
     "@emotion/core": "^10.0.14",
     "@mdx-js/react": "^1.0.21",
+    "gatsby-plugin-react-helmet": "^3.1.0",
     "gatsby-plugin-theme-ui": "^0.2.2",
+    "react-helmet": "^5.2.1",
     "theme-ui": "^0.2.2"
   },
   "keywords": [

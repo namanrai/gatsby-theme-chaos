@@ -5,9 +5,9 @@
  */
 export default {
   colors: {
-    text: "#232129",
-    background: "#fff",
-    primary: "#639",
+    text: "#000000",
+    background: "#ffffff",
+    primary: "#424242",
   },
   fonts: {
     default:

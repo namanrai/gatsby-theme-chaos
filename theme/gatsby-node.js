@@ -6,15 +6,20 @@ exports.createPages = ({ actions, reporter }) => {
     path: "/",
     component: require.resolve("./src/templates/page.js"),
     context: {
-      heading: "Your Theme Here",
+      heading: `Aditya Vardhan Singh`,
       content: `
         <p>
-          Use this handy theme example as the basis for your own amazing theme!
+        Portfolio gatsby theme.
         </p>
+
         <p>
-          For more information, see 
-          <a href="https://themejam.gatsbyjs.org">themejam.gatsbyjs.org</a>.
-        </p>
+         <center><a href="https://www.github.com/hakrsingh" target="_blank" style="color: #494949">github</a></center>
+        </p>          
+
+          
+          
+
+
       `,
     },
   })
