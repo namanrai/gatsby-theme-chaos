@@ -1,6 +1,4 @@
-# Gatsby Theme Jam Submission Example
-
-This repo is an example and potential starting point for theme creators.
+# Gatsby Theme Chaos  ![npm](https://img.shields.io/npm/dm/@hakrsingh/gatsby-theme-chaos)
 
 It includes:
 - a bare-bones theme (located in `theme/`) that includes basic setup
@@ -49,10 +47,3 @@ It includes:
 
 6.  Start editing the theme! The demo site is configured to use the local theme, so any changes you make to the local `theme` directory will be reflected on the demo site for easy local development.
 
-7.  Follow the [submission checklist](./theme/README.md#submission-checklist) to make sure your theme qualifies to win!
-
-8.  [Submit your theme](https://themejam.gatsbyjs.org/submit) to win!
-
-## More information
-
-For contest rules and more information, see [the Theme Jam website](https://themejam.gatsbyjs.org).
